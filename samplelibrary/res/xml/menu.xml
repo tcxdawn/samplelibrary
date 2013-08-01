@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="z"
+        android:title="主页" />
+    <Preference
+        android:key="a"
+        android:title="图书搜索" />
+    <Preference
+        android:key="b"
+        android:title="读者信息" />
+    <Preference
+        android:key="c"
+        android:title="当前借阅" />
+    <Preference
+        android:key="d"
+        android:title="关于" />
+
+</PreferenceScreen>
